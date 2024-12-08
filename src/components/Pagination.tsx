@@ -69,7 +69,7 @@ export const Pagination: React.FC<PaginationProps> = ({
   };
 
   return (
-    <div ref={paginationRef} className="flex flex-col sm:flex-row items-center justify-between border-t border-gray-200 bg-white px-4 py-3 sm:px-6 gap-4">
+    <div ref={paginationRef} className="flex flex-col sm:flex-row items-center justify-between border-t border-gray-200 bg-white p-4 rounded-lg shadow-sm mt-6">
       <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
         <select
           value={pageSize}

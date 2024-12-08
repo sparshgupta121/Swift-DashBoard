@@ -24,7 +24,7 @@ export const Profile = () => {
     return (
       <div className="flex items-center justify-center min-h-screen bg-slate-50">
         <div className="flex flex-col items-center gap-4">
-          <div className="animate-spin rounded-full h-12 w-12 border-4 border-emerald-200 border-t-emerald-500"></div>
+          <div className="animate-spin rounded-full h-12 w-12 border-4 border-blue-200 border-t-blue-500"></div>
           <p className="text-slate-600">Loading profile...</p>
         </div>
       </div>
@@ -44,7 +44,7 @@ export const Profile = () => {
 
         <div className="bg-white border-2 rounded-xl shadow-sm overflow-hidden">
           {/* Profile Header */}
-          <div className="p-8 border-b border-slate-200 bg-gradient-to-r from-emerald-50 to-slate-50">
+          <div className="p-8 border-b border-slate-200 bg-gradient-to-r from-blue-50 to-slate-50">
             <div className="flex flex-col md:flex-row items-center gap-6">
               <div className="relative group">
                 <div className="h-24 w-24 rounded-full  border-2 border-blue-950 text-blue-950 flex items-center justify-center text-3xl font-bold transition-transform duration-200 group-hover:scale-105">

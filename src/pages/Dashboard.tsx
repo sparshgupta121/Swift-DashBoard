@@ -140,8 +140,8 @@ export const Dashboard = () => {
             key={comment.id}
             className="p-4 bg-white shadow-md rounded-lg border border-gray-200"
           >
-            <div className="text-sm text-gray-500 mb-2">Post ID: {comment.postId}</div>
-            <div className="text-sm font-medium text-gray-900 mb-1">{comment.name}</div>
+            <div className="text-sm text-gray-500">Post ID: {comment.postId}</div>
+            <div className="text-sm font-medium text-gray-900">{comment.name}</div>
             <a
               href={`mailto:${comment.email}`}
               className="text-sm text-indigo-600 hover:text-indigo-900 hover:underline mb-2 block"
