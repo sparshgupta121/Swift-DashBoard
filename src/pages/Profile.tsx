@@ -81,7 +81,7 @@ export const Profile = () => {
               <div className="space-y-6">
                 <div className="group">
                   <label className="text-sm font-medium text-slate-600 flex items-center mb-1.5">
-                    <span className="bg-emerald-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
+                    <span className="bg-blue-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
                       <Hash className="h-4 w-4" />
                     </span>
                     User ID
@@ -93,7 +93,7 @@ export const Profile = () => {
 
                 <div className="group">
                   <label className="text-sm font-medium text-slate-600 flex items-center mb-1.5">
-                    <span className="bg-emerald-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
+                    <span className="bg-blue-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
                       <UserIcon className="h-4 w-4" />
                     </span>
                     Username
@@ -105,7 +105,7 @@ export const Profile = () => {
 
                 <div className="group">
                   <label className="text-sm font-medium text-slate-600 flex items-center mb-1.5">
-                  <span className="bg-emerald-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
+                  <span className="bg-blue-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
                       <Mail className="h-4 w-4" />
                     </span>
                     Email
@@ -119,7 +119,7 @@ export const Profile = () => {
               <div className="space-y-6">
                 <div className="group">
                   <label className="text-sm font-medium text-slate-600 flex items-center mb-1.5">
-                  <span className="bg-emerald-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
+                  <span className="bg-blue-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
                       <Phone className="h-4 w-4" />
                     </span>
                     Phone
@@ -131,7 +131,7 @@ export const Profile = () => {
 
                 <div className="group">
                   <label className="text-sm font-medium text-slate-600 flex items-center mb-1.5">
-                  <span className="bg-emerald-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
+                  <span className="bg-blue-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
                       <Globe className="h-4 w-4" />
                     </span>
                     Website
@@ -150,7 +150,7 @@ export const Profile = () => {
 
                 <div className="group">
                   <label className="text-sm font-medium text-slate-600 flex items-center mb-1.5">
-                  <span className="bg-emerald-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
+                  <span className="bg-blue-50 p-1.5 rounded-md text-blue-950 mr-2 group-hover:bg-blue-100 transition-colors duration-200">
                       <MapPin className="h-4 w-4" />
                     </span>
                     Address
